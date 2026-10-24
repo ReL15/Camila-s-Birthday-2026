@@ -40,7 +40,7 @@ export const QuestHeader: React.FC<QuestHeaderProps> = ({
             <span className="text-xl">💜</span>
             <div>
               <span className="font-extrabold text-base md:text-lg text-purple-950 group-hover:text-purple-700 transition-colors whitespace-nowrap">
-                Camila's Quest
+                Feliz Cumpleaños Camila 2026 💜✨
               </span>
             </div>
           </button>
